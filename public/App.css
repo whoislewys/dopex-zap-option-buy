@@ -1,0 +1,14 @@
+html {
+  background-color: black;
+}
+
+.text {
+  color: white;
+}
+
+.purchase-dialog {
+  background-color: gray;
+  width: 400px;
+  height: 1172;
+  padding: 1rem;
+}
